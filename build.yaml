@@ -24,5 +24,3 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   - board: nice_nano@2.0.0//zmk
     shield: sofle_right
-  - board: nice_nano@2//zmk
-    shield: sofle_left
